@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NissinRamenNoodles
 - 👀 I’m interested in Cyber Security and Penetration Tester
-- 🌱 I’m currently learning HTML and Python
+- 🌱 I’m currently learning Java and Python
 - 🧑‍🎓 I’m a beginner level
 - 📫 How to reach me nissinramen09@gmail.com
 
